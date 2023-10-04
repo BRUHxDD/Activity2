@@ -26,7 +26,7 @@
             android:id="@+id/button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="Map Lists"
             android:layout_margin="20dp"
             android:layout_weight="3"/>
 
@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="20dp"
-            android:text="Button" />
+            android:text="Skins" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -47,14 +47,14 @@
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="Track Your Stats"
             android:layout_margin="10dp" />
         <Button
             android:id="@+id/button5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center|right"
-            android:text="Button"
+            android:text="Win %"
             android:layout_margin="10dp"/>
 
         <Button
@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_gravity="center|left"
-            android:text="Button" />
+            android:text="Lose %" />
     </LinearLayout>
 
     <LinearLayout
